@@ -1,0 +1,41 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #cbd5e1;
+  height: 100vh ;
+  
+}
+ul{
+  padding-left: 0;
+}
+
+.gaane {
+  display: flex;
+  justify-content: center;
+  /* border: 1px solid black; */
+}
+
+button {
+  padding: 0.5rem 2rem;
+  margin-right: 1rem;
+  width: 8rem;
+  background-color: cadetblue;
+}
+
+.card {
+  list-style: none;
+  padding: 1rem;
+  border: 2px solid #475569;
+  width: 70%;
+  /* margin-bottom: 1rem; */
+  border-radius: 0.5rem;
+  margin: auto;
+  background-color: #d4d4d4;
+
+  /* width: 50vw; */
+  /*
+  margin: auto;
+  margin-bottom: 1rem;
+  
+  border: 1px solid black; */
+}
